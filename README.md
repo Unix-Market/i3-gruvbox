@@ -62,17 +62,21 @@ mkdir -p ~/.config/{i3,polybar,alacritty,rofi}
 3. **Copy configuration files**:
 ```bash
 # i3 config
+cd i3
 cp config ~/.config/i3/
 
 # Polybar
+cd polybar
 cp config.ini ~/.config/polybar/
 cp launch.sh ~/.config/polybar/
 chmod +x ~/.config/polybar/launch.sh
 
 # Alacritty
+cd alacritty
 cp alacritty.toml ~/.config/alacritty/
 
 # Rofi
+cd rofi
 cp config.rasi ~/.config/rofi/
 cp gruvbox-material.rasi ~/.config/rofi/
 ```
@@ -80,6 +84,7 @@ cp gruvbox-material.rasi ~/.config/rofi/
 4. **Set up scripts**:
 ```bash
 mkdir -p ~/.local/share/scripts
+cd scripts
 cp shutdown.sh ~/.local/share/scripts/
 chmod +x ~/.local/share/scripts/shutdown.sh
 ```
