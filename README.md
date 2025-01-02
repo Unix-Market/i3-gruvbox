@@ -2,7 +2,7 @@
 
 A carefully curated collection of dotfiles for a minimal yet powerful Linux setup featuring i3-gaps, Polybar, Rofi, and Alacritty - all themed with the beautiful Gruvbox color scheme.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-GPL-blue.svg)
 ![Gruvbox](https://img.shields.io/badge/theme-Gruvbox-brown)
 ![WM](https://img.shields.io/badge/WM-i3gaps-purple)
 
