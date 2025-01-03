@@ -8,7 +8,7 @@ A carefully curated collection of dotfiles for a minimal yet powerful Linux setu
 
 ## 🎨 Preview
 
-(assets/screenshot-1.png)
+!(assets/screenshot-1.png)
 
 ## ✨ Features
 
