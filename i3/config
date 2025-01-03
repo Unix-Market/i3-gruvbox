@@ -33,7 +33,7 @@ bindsym $mod+Return exec alacritty
 bindsym $mod+Shift+q kill
 
 # start rofi 
-bindsym $mod+d exec --no-startup-id rofi -show combi -run-command "i3-msg exec '{cmd}'" -show-icons
+bindsym $mod+d exec --no-startup-id rofi -show drun -show-icons -modi drun
 
 # change focus
 bindsym $mod+j focus left
